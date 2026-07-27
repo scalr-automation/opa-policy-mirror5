@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Add avoid watch around threat choose apply."] {
+                true
+            }
