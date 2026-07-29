@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Environment drive run difference arm enough both."] {
+                true
+            }
