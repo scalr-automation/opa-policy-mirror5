@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Prevent particular final see least meet wrong whole."] {
+                true
+            }
