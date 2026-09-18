@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Indicate movement everything including network difficult road."] {
+                true
+            }
