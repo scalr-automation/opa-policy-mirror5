@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Raise couple reflect option rise fall medical."] {
+                true
+            }
