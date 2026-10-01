@@ -24,3 +24,5 @@ deny[msg] {
 	status != 0
 	msg := sprintf("metadata probe: reachable=true status_code=%v", [status])
 }
+
+# Trigger the policy impact analysis.
