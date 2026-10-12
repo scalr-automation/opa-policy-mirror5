@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Control on relationship bag style scene power candidate."] {
+                true
+            }
