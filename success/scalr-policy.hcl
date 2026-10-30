@@ -1,6 +1,11 @@
 version = "v1"
 
-policy "policy" {
+policy "metadata_leak" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
+}
+
+policy "metadata_probe" {
+  enabled           = true
+  enforcement_level = "advisory"
 }
