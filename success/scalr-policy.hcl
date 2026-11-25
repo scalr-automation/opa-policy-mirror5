@@ -1,6 +1,11 @@
 version = "v1"
 
-policy "policy" {
+policy "success_policy" {
   enabled           = true
   enforcement_level = "hard-mandatory"
+}
+
+policy "advisory_policy" {
+  enabled           = true
+  enforcement_level = "advisory"
 }
